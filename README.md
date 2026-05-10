@@ -30,9 +30,9 @@ This project investigates how to overcome this limitation using modern AI techni
 
 ---
 
-## ⚙️ What I Built
+## ⚙️ What We Built
 
-I designed a **continual learning pipeline** using reinforcement learning:
+We designed a **continual learning pipeline** using reinforcement learning:
 
 ### 🔹 Algorithms Used
 
@@ -157,7 +157,7 @@ The system is modeled as a reinforcement learning environment where:
 
 ## 🌍 Task Design (Core Idea)
 
-Instead of training on one condition, I created **4 distinct regimes**:
+Instead of training on one condition, We created **4 distinct regimes**:
 
 | Task | Environment          | Objective          |
 | ---- | -------------------- | ------------------ |
@@ -243,9 +243,9 @@ otec-continual-rl/
 
 ---
 
-## 🚀 What I Learned
+## 🚀 What We Learned
 
-This project helped me understand:
+This project helped us understand:
 
 * How AI systems behave in **dynamic real-world environments**
 * Why **model memory and retention** are critical
@@ -254,7 +254,7 @@ This project helped me understand:
 
 ---
 
-## 👤 Author
+## 👤 Authors
 
 **Vamsi Krishna Gondu**
 
@@ -264,7 +264,21 @@ B.Tech Computer Science and Engineering, Specialized in Artificial Intelligence 
 
 KL University, India
 
+**R Navadeep Sai**
 
+AI & Data Analytics Enthusiast
+
+B.Tech Computer Science and Engineering, Specialized in Data Science
+
+KL University, India
+
+**P. S. N. Chowdary**
+
+AI & Data Analytics Enthusiast
+
+B.Tech Computer Science and Engineering, Specialized in Data Science
+
+KL University, India
 
 ---
 ## License
