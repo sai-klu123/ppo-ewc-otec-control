@@ -30,7 +30,7 @@ This project investigates how to overcome this limitation using modern AI techni
 
 ---
 
-## ⚙️ What We Built
+## ⚙️ Framework Overview
 
 We designed a **continual learning pipeline** using reinforcement learning:
 
@@ -243,7 +243,7 @@ otec-continual-rl/
 
 ---
 
-## 🚀 What We Learned
+## 🚀 Project Outcomes
 
 This project helped us understand:
 
@@ -284,3 +284,11 @@ KL University, India
 ## License
 
 This project is released under the MIT License, allowing open use and modification with proper attribution.
+
+## 📄 Citation
+
+If you use this work, please cite:
+
+Vamsi Krishna Gondu, R. Navadeep Sai, P. S. N. Chowdary,
+"Proximal Policy Optimization with Elastic Weight Consolidation for Adaptive Ocean Thermal Energy Conversion Control",
+KL University, 2026.
